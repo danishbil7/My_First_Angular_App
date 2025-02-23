@@ -1,5 +1,9 @@
 # FirstNgApp
 
+This is my first project using Angular, created while learning the framework. This application is a simple To-Do app developed to understand Angular's core concepts, including components, modules, services, and data binding.
+
+## About the Project
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
 
 ## Development server
